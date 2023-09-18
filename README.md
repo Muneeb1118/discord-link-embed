@@ -1,2 +1,2 @@
-# discord-link-embed
-A free template for creating link embeds for Discord.
+# Discord Link Embed Template
+## A free template for creating link embeds for Discord.
