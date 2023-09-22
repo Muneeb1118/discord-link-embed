@@ -9,6 +9,7 @@ Edit whatever you want in the empty spaces provided in the template to display t
 **NOTE: The empty spaces in the template is to improve readability. Please do not actually include the spaces in your final product.**
 ![Guide image #1](https://github.com/KnightTheFluff/discord-link-embed/blob/main/guide-images/guide.png "Tag navigation.")
 **Thumbnail version of the embed:**
+
 ![Guide image #2](https://github.com/KnightTheFluff/discord-link-embed/blob/main/guide-images/guide2.png "Thumbnail version.")
 ### Step 3
 Once you are satisfied with the changes you've made, pick a hosting service to host the HTML online.
