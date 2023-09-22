@@ -21,5 +21,5 @@ Below is a list of free-forever hosting services you can rely on to do the said 
 
 I personally recommend you to use **Cloudflare Pages** as it has the most flexibility for development.
 ### Step 4
-Think you got everything set up via your selected hosting service? Great! Paste the link you made with your chosen host on Discord and watch the magic happen.<br>
-P.S. The embed may or may not work on other social platforms such as WhatsApp, Telegram or even 𝕏 (Twitter). I haven't tested to see if it will work or not so fingers crossed.
+Think you got everything set up via your selected hosting service? Great! Paste the link you made with your chosen host on Discord and watch the magic happen.<br><br>
+*P.S. The embed may or may not work on other social platforms such as WhatsApp, Telegram or even 𝕏 (Twitter). I haven't tested to see if it will work or not so fingers crossed.*
