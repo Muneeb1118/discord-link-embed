@@ -16,5 +16,6 @@ Below is a list of free-forever hosting services you can rely on to do the said 
 | Cloudflare Pages | [View](https://developers.cloudflare.com/pages/get-started/guide/) |
 | GitHub Pages     | [View](https://docs.github.com/en/pages/quickstart)                |
 | Netlify          | [View](https://docs.netlify.com/get-started/)                      |
+
 I personally recommend you to use **Cloudflare Pages** as it has the most flexibility for development.
 
