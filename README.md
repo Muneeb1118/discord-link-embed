@@ -15,9 +15,9 @@ Once you are satisfied with the changes you've made, pick a hosting service to h
 Below is a list of free-forever hosting services you can rely on to do the said task:<br>
 | Hosting Service  | Installation Guide                                                 |
 |------------------|--------------------------------------------------------------------|
-| Cloudflare Pages | [View](https://developers.cloudflare.com/pages/get-started/guide/) |
-| GitHub Pages     | [View](https://docs.github.com/en/pages/quickstart)                |
-| Netlify          | [View](https://docs.netlify.com/get-started/)                      |
+| Cloudflare Pages | <p style="text-align: center;">[View](https://developers.cloudflare.com/pages/get-started/guide/)</p> |
+| GitHub Pages     | <p style="text-align: center;">[View](https://docs.github.com/en/pages/quickstart)</p>                |
+| Netlify          | <p style="text-align: center;">[View](https://docs.netlify.com/get-started/)</p>                      |
 
 I personally recommend you to use **Cloudflare Pages** as it has the most flexibility for development.
 ### Step 4
